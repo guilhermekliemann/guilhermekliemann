@@ -1,4 +1,6 @@
 ### Olá! Meu nome é Guilherme Kliemann
+##### - Cursando Análise e Desenvolvimento de Sistemas, UNIPAR.
+##### - Cursando Biopark Connect, Formação para Programadores.
 
 ## 
 
