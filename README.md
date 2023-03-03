@@ -1,6 +1,6 @@
-### Olá! Meu nome é Guilherme Kliemann
-##### - Trabalho na STW Automação com Desenvolvedor Full Stack.
-##### - Cursando Análise e Desenvolvimento de Sistemas, UNIPAR.
+### Hi, I'm Guilherme Kliemann
+##### - I work at STW Automation with a Full Stack 
+##### - Studying Systems Analysis and Development, UNIPAR
 
 ## 
 
