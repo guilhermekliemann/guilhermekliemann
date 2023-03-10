@@ -41,10 +41,10 @@
 
 <p align="left" style="background:yellow">
   <a target="_blank" href="https://linkedin.com/in/guilherme-kliemann">
-    <img align="center" src="https://img.shields.io/badge/--05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a target="_blank" href="https://instagram.com/guilhermekliemann">
-   <img align="center" src="https://img.shields.io/badge/--05122A?style=flat&logo=instagram" alt="instagram"/>
+   <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 </p>
 
