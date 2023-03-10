@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Kliemann</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermekliemann&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Junior Web Developer
+- 🔥 Full Stack Developer
 
 - 🌱 I’m currently learning **Vue, Laravel**
 
@@ -37,4 +37,14 @@
   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </div>
   
- ##
+ ## Contact
+
+<p align="left" style="background:yellow">
+  <a href="https://linkedin.com/in/guilhermekliemann" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/guilherme.kliemann" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=instagram" alt="instagram"/>
+  </a>
+</p>
+
