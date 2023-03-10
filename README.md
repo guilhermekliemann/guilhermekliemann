@@ -16,11 +16,11 @@
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/guilhermekliemann">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermekliemann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekliemann&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
   
  ##
   
@@ -41,10 +41,10 @@
 
 <p align="left" style="background:yellow">
   <a href="https://linkedin.com/in/guilhermekliemann" target="_blank">
-<!--     <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=linkedin" alt="linkedin"/> -->
+    <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/guilhermekliemann" target="_blank">
-<!--    <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=instagram" alt="instagram"/> -->
+   <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 </p>
 
