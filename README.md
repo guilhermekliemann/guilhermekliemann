@@ -40,7 +40,7 @@
  ## Contact
 
 <p align="left" style="background:yellow">
-  <a href="https://linkedin.com/in/guilhermekliemann" target="_blank">
+  <a href="https://linkedin.com/in/guilherme-kliemann" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Guilherme Kliemann-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/guilhermekliemann" target="_blank">
