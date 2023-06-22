@@ -4,7 +4,7 @@
 
 - 🔥 Full Stack Developer
 
-- 🌱 I’m currently learning **Vue, Laravel**
+- 🌱 I’m currently learning **Vue, Laravel, Flutter**
 
 - 📫 How to reach me: guilhermekliemann9@gmail.com
 
