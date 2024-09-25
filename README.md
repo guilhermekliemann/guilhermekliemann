@@ -4,9 +4,11 @@
 
 - 🔥 Full Stack Developer
 
-- 🌱 I’m currently learning **Vue, Laravel, Flutter**
+- 🌱 I’m currently learning **Vue, Laravel, React, Typescript**
 
 - 📫 How to reach me: guilhermekliemann9@gmail.com
+
+- 📚 I'm studying systems analysis and development at Unipar
 
 ## 
 
